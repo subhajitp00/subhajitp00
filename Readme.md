@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @subhajit pal
-- 👀 I’m interested in ... teaching, trading,coding
-- 🌱 I’m currently learning ...coding, blockchain
-- 💞️ I’m looking to collaborate on ... blockchain, Quantum CYPTROGRAPHY
+- 👀 I’m interested in ... research,teaching,coding
+- 🌱 I’m currently learning ... quantum computing and communication,coding, blockchain
+- 💞️ I’m looking to collaborate on ... Quantum cryptography 
 - 📫 How to reach me ... subhajitp00@gmail.com
 
 <!---
